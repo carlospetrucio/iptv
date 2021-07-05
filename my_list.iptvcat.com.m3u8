@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP
+http://mains.services:2086/live/mikekoot/1757909/92654.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD
+http://mains.services:2086/live/mikekoot/1757909/92655.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO FHD¹
+http://srvtv.online:80/User501234/MVt25589/6741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
+http://mains.services:2086/live/mikekoot/1757909/92691.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP FHD²
+http://srvtv.online:2082/User501234/MVt25589/4468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP FHD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4315?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/7?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT  SP FHD¹
+http://srvtv.online:80/User501234/MVt25589/6766?checkedby:iptvcat.com
